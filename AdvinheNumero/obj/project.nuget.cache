@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMoet1qLYDCkUEwNJcPJ8TZR38+FMNdl2R2FOijXUyXn94y/OgIbfSax2apw9tagLd6cWR89DyVzsTZ7FqxZjw==",
+  "success": true,
+  "projectFilePath": "D:\\Curso c#\\AdvinheNumero\\AdvinheNumero\\AdvinheNumero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Curso c#\AdvinheNumero\AdvinheNumero\bin\Debug\net6.0-windows\AdvinheNumero.exe
+D:\Curso c#\AdvinheNumero\AdvinheNumero\bin\Debug\net6.0-windows\AdvinheNumero.deps.json
+D:\Curso c#\AdvinheNumero\AdvinheNumero\bin\Debug\net6.0-windows\AdvinheNumero.runtimeconfig.json
+D:\Curso c#\AdvinheNumero\AdvinheNumero\bin\Debug\net6.0-windows\AdvinheNumero.dll
+D:\Curso c#\AdvinheNumero\AdvinheNumero\bin\Debug\net6.0-windows\AdvinheNumero.pdb
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.csproj.AssemblyReference.cache
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.Form1.resources
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.csproj.GenerateResource.cache
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.AssemblyInfoInputs.cache
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.AssemblyInfo.cs
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.csproj.CoreCompileInputs.cache
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.dll
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\refint\AdvinheNumero.dll
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.pdb
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\AdvinheNumero.genruntimeconfig.cache
+D:\Curso c#\AdvinheNumero\AdvinheNumero\obj\Debug\net6.0-windows\ref\AdvinheNumero.dll
